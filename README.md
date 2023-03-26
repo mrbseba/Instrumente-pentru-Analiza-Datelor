@@ -1,2 +1,1 @@
-# Instrumente-pentru-Analiza-Datelor
-LAD; PCA; Tensorflow; Outliers;
+IAD data
